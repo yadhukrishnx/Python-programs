@@ -1,0 +1,2 @@
+ This is a sample file operation example and here the file is accessed in write mode and contents are added This is a sample file operation example and here the file is accessed in write mode and contents are added . in this mode ov
+erwriting of contents may happen
